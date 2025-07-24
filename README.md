@@ -2,7 +2,7 @@
 
 This project allows users to control their computer mouse cursor using **hand gestures** detected through a webcam. It uses **OpenCV**, **MediaPipe**, and **PyAutoGUI** to detect hand movements and translate them into real-time mouse control.
 
-## ✨ Features
+##  Features
 
 - Tracks hand using webcam
 - Moves mouse pointer with index finger
@@ -11,7 +11,7 @@ This project allows users to control their computer mouse cursor using **hand ge
 
 
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 - Python
 - OpenCV
@@ -19,7 +19,7 @@ This project allows users to control their computer mouse cursor using **hand ge
 - PyAutoGUI
 - NumPy
 
-## 📦 Requirements
+##  Requirements
 
 Install dependencies using pip:
 
